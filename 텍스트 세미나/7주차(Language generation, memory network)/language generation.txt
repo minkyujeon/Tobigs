@@ -1,0 +1,13 @@
+KL Divergence
+https://youtu.be/uMYhthKw1PU
+
+VAE 수식
+https://youtu.be/KYA-GEhObIs
+
+Policy Gradient 수식
+https://youtu.be/gINks-YCTBs
+
+김남주님 PPT - GAN, VAE 
+https://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091
+
+오늘 발표한 내용 수식 관련 영상입니다. 어마어마하게 설명 상세하게 잘해주시니까 꼭 한번 들어보세요오~

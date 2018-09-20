@@ -1,0 +1,22 @@
+rnn,lstm 자료 출처입니다! 정말 중요한 주제라 조금 더 꼼꼼하게 준비해갔으면 좋았을 걸하구 아쉬움이 남네욥!!  정말 좋은 자료들이니!! 한번 살펴보세요.. 같이 공부 잘해나가욥~
+
+#개인적으로 가장 좋은 자료라 생각
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://brunch.co.kr/@chris-song/9
+
+#색다른 접근(페북 아저씨)
+https://youtu.be/WCUNPb-5EYI
+
+#좋은 한글 자료
+https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/
+
+#cs224n보다 쉬운 설명
+http://cs231n.stanford.edu
+
+http://web.stanford.edu/class/cs224n/
+
+#조금은 정돈이 안된 느낌이지만, 한글로된 영상이라 괜찮!
+https://hunkim.github.io/ml/
+
+#rnn,lstm
+https://deeplearning4j.org/kr/lstm
